@@ -34,7 +34,7 @@ test:
 
 about:
   home: https://pypi.org/project/LockFileSemaphore/
-  license: MIT
+  license: BSD-3-Clause license
   license_file: LICENSE
   summary: Robust file-based semaphore with stale lock recovery and context manager support.
 
